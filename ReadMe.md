@@ -1,3 +1,4 @@
+build smth
 <div align="center">
    <img width="640" src="https://github.com/Inori/GPCS4/blob/master/Misc/logo.png" alt="logo"></br>
 
