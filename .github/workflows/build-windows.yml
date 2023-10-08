@@ -1,4 +1,4 @@
-name: Build GPCS4
+name: Build GPCS
 
 on:
   push:
